@@ -1,0 +1,6 @@
+Checkpoint1 Yes Yes No No Yes
+Checkpoint2 Yes Yes Yes Yes Yes
+Checkpoint3 Yes Yes Yes No No
+Checkpoint4 Yes Yes Yes No Yes
+Checkpoint5 Yes Yes Yes Yes No
+Checkpoint6 Yes Yes Yes No No 
